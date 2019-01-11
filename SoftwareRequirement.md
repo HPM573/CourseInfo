@@ -31,6 +31,7 @@ Create a [GitHub](https://github.com/) account. 
 5. To update Python packages, follow the steps 
 [here](https://www.jetbrains.com/help/pycharm/installing-uninstalling-and-upgrading-packages.html),
  under Upgrading packages.
+6. Do [Homework Assignement 0](https://classroom.github.com/a/e2KrcmLQ) to make sure everything has been installed correctly.   
 
 If you want to have a head start, watch the first 6 lectures of the 
 MIT Open Course [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/) . 
