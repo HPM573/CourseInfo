@@ -3,7 +3,7 @@
 Please follow the instruction below to meet the software requirements of the course: 
 
 1. Install [Anaconda](https://www.anaconda.com/download/) 
-(choose **Python 3.6** version)
+(choose **Python 3.7** version)
 2. Install [PyCharm (Professional Version)](https://www.jetbrains.com/pycharm/). 
 PyCharm professional is free for students. Request license from 
 [here](https://www.jetbrains.com/student/).
