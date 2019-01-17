@@ -19,7 +19,7 @@ PyCharm professional is free for students. Request license from
     4. In the next windows, we install the packages we need. Click on the small **+** button on the right.
      Search for **numpy** and select it. In the bottom of the page, select **Install to user's site packages directory**
       and then click on Install Package.
-    5. Repeat the previous step for **scipy** and **matplotlib**. Click OK.
+    5. Repeat the previous step for **scipy**, **matplotlib**, and **pandas**. Click OK.
 5. To update Python packages, follow the steps 
 [here](https://www.jetbrains.com/help/pycharm/installing-uninstalling-and-upgrading-packages.html),
  under Upgrading packages.
