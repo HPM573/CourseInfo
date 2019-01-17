@@ -16,7 +16,7 @@ PyCharm professional is free for students. Request license from
     From the left menu, select **System Interpreter**. The path to where the python is installed should be 
     already displayed in the text box next to Interpreter. If not, navigate to the folder where python is install. 
     On my computer it is "C:\Users\ry87\AppData\Local\Programs\Python\Python37-32\python.exe". Click Ok
-    4. In the next windows, we are going to install the packages we need. Click on the small **+** button on the right.
+    4. In the next windows, we install the packages we need. Click on the small **+** button on the right.
      Search for **numpy** and select it. In the bottom of the page, select **Install to user's site packages directory**
       and then click on Install Package.
     5. Repeat the previous step for **scipy** and **matplotlib**. Click OK.
