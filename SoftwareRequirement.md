@@ -23,7 +23,7 @@ PyCharm professional is free for students. Request license from
 5. To update Python packages, follow the steps 
 [here](https://www.jetbrains.com/help/pycharm/installing-uninstalling-and-upgrading-packages.html),
  under Upgrading packages.
-7. Do [Homework Assignment 0](https://classroom.github.com/a/e2KrcmLQ) to make sure everything has been installed correctly.
+7. Do **HW 0** (see Assignments on Canvas) to make sure everything has been installed correctly.
     **Note**: When you open HW0, go to File -> Settings, from the left menu, select 
     Project: HW_0->Project Interpreter and make sure you  see the packages you just installed. 
     If not, from the drop-down menu next to Project Interpreter, make sure the interpreter that we just defined 
