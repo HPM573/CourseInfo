@@ -27,7 +27,7 @@ PyCharm professional is free for students. Request license from
     **Note**: When you open HW0, go to File -> Settings, from the left menu, select 
     Project: HW_0->Project Interpreter and make sure you  see the packages you just installed. 
     If not, from the drop-down menu next to Project Interpreter, make sure the interpreter that we just defined 
-    is selected. It should be something like "**Python 3.7** (C:\Users\ry87\AppData\Local\Programs\Python\Python37-32\python.exe)".   
+    is selected. It should be something like "**Python 3.8** (C:\Users\ry87\AppData\Local\Programs\Python\Python38-1\python.exe)".   
 
 If you want to have a head start, watch the first 6 lectures of the 
 MIT Open Course [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/) . 
