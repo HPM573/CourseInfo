@@ -2,7 +2,7 @@
 
 Please follow the instruction below to meet the software requirements of the course: 
 
-1. Install [Python 3.7.2](https://www.python.org/downloads/).
+1. Install [Python 3.8.1](https://www.python.org/downloads/).
 2. Install [Git](https://git-scm.com/download/) and create a [GitHub](https://github.com/) account.
 3. Install [PyCharm (Professional Version)](https://www.jetbrains.com/pycharm/). 
 PyCharm professional is free for students. Request license from 
