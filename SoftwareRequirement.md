@@ -14,7 +14,7 @@ PyCharm professional is free for students. Request license from
     3. Select **Project Interpreter** from the left menu. To create a Project Interpreter, 
     click on the small grey **gear** on top right and select **Add**.
     From the left menu, select **System Interpreter**. The path to where the python is installed should be 
-    already displayed in the text box next to Interpreter. If not, navigate to the folder where python is install (Note that to find the folder you might need to click on the button **Show Hidden Files and Directories** which is on the top of the window.) 
+    already displayed in the text box next to Interpreter. If not, navigate to the folder where python is install (Note that to find this folder you may need to click on the button **Show Hidden Files and Directories** which is on the top of the window.) 
     On my computer it is "C:\Users\ry87\AppData\Local\Programs\Python\Python37-32\python.exe". Click Ok
     4. In the next windows, we install the packages we need. Click on the small **+** button on the right.
      Search for **numpy** and select it. In the bottom of the page, select **Install to user's site packages directory**
