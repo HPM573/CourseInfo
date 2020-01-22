@@ -20,7 +20,7 @@ nd click Clone.
 1. Open your project in PyCharm, select **VCS -> Commit**. 
 2. Make sure the folder that ends in "\.idea" is unchecked. 
 3. Write your commit message (e.g. "implemented the function to calculate n!"), 
-hover your mouse over Commit button and select **Commit and Push**.
+click on the arrow next to the Commit button and select **Commit and Push**.
 
 ### To create a GitHub repository from a PyCharm project: 
 
