@@ -1,7 +1,7 @@
 # Basic GitHub Operations
 
 Watch this [short video](https://git-scm.com/video/what-is-version-control)
- to learn about the basics of Git and version control. 
+ to learn about the basics of Git and version control.
 
 ### To download a repository from GitHub:
 
@@ -24,11 +24,11 @@ click on the arrow next to the Commit button and select **Commit and Push**.
 
 ### To create a GitHub repository from a PyCharm project: 
 
-1. Create a **new PyCharm project**.
+1. Create a **newPyCharm project**.
 2. From the menu select 
-**VCS > Import into Version Control > Share Project on GitHub**.
-3. Give your repository a name and click **Share**. 
+**VCS > Import into Version Control> Share Project on GitHub**.
+3. Give your repository a name and click **Share**.
 4. On the next window, make sure to **uncheck** the folder that ends in **"\.idea"** 
 (this prevents GitHub from tracking user-specific settings; 
 this is important when collaborating with others).
-5. You may leave the **Commit Message** unchanged and click **OK**. 
+5. You may leave the **Commit Message** unchanged and click **OK**.
