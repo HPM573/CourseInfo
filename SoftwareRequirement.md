@@ -12,12 +12,11 @@ PyCharm professional is free for students. Request license from
     2. On the Welcome to PyCharm window, select **Customize** from the left menu and 
         click on **All settings...** (on Mac, it might be called **Preferences**).
     3. Select **Project Interpreter** from the left menu. The path to where the python is installed should be 
-    already displayed in the text box next to Interpreter or in the drop-down menu when you click on text next to Interpreter. 
-       On my computer it is "C:\Users\ry87\AppData\Local\Programs\Python\Python39\python.exe" 
+    already displayed in the text box next to Interpreter or in the drop-down menu when you click on text next to Interpreter. If you do not see this, you need to add the interpreter manually. Click on **Add Interpreter** and then select **Add Local Interpreter...**. From the left menu, select System Interpreter and click on the button next to Interpreter text box. Select the folder where python is installed on your computer. On my computer it is "C:\Users\ry87\AppData\Local\Programs\Python\Python39\python.exe" 
        (note that to find this folder you may need to click on the button 
        **Show Hidden Files and Directories** which is on the top of the window). 
-     Click Ok
-    4. In the next windows, we install the packages we need. Click on the small **+** button on the right.
+     Click Ok.
+    4. After selecting the interpreter, we install the packages we need. Click on the small **+** button on the right.
      Search for **numpy** and select it. In the bottom of the page, select **Install to user's site packages directory**
       and then click on Install Package.
     5. Repeat the previous step for **deampy**, **scipy**, **matplotlib**, **statsmodels**, and **pandas**. Click OK.
