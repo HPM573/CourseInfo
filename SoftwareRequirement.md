@@ -9,13 +9,11 @@ PyCharm professional is free for students. Request license from
 [here](https://www.jetbrains.com/student/).
 4. Follow these steps to select your Python interpreter in PyCharm:
     1. Open PyCharm (close any open projects). 
-    2. On the Welcome to PyCharm window, click on **Configure** (lower right) and 
-        select **Settings** (on Mac, it is called **Preferences**).
-    3. Select **Project Interpreter** from the left menu. To create a Project Interpreter, 
-    click on the small grey **gear** on top right and select **Add**.
-    From the left menu, select **System Interpreter**. The path to where the python is installed should be 
-    already displayed in the text box next to Interpreter. If not, navigate to the folder where python is installed. 
-       On my computer it is "C:\Users\ry87\AppData\Local\Programs\Python\Python38\python.exe" 
+    2. On the Welcome to PyCharm window, select **Customize** from the left menu and 
+        click on **All settings...** (on Mac, it might be called **Preferences**).
+    3. Select **Project Interpreter** from the left menu. The path to where the python is installed should be 
+    already displayed in the text box next to Interpreter or in the drop-down menu when you click on text next to Interpreter. 
+       On my computer it is "C:\Users\ry87\AppData\Local\Programs\Python\Python39\python.exe" 
        (note that to find this folder you may need to click on the button 
        **Show Hidden Files and Directories** which is on the top of the window). 
      Click Ok
