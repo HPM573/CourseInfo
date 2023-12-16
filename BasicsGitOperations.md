@@ -21,18 +21,7 @@ nd click **Clone**.
 
 ### To push the latest version of your project to GitHub:
 
-1. Open your project in PyCharm, select **Git -> Commit**. 
+1. Open your project in PyCharm, select **Git -> Commit** from the top menu. 
 2. Make sure the folder that ends in "\.idea" is unchecked (this prevents GitHub from tracking user-specific settings; this is important when collaborating with others). 
 3. Write your commit message (e.g., "implemented the function to calculate n!"), 
-click on the arrow next to the Commit button and select **Commit and Push**.
-
-### To create a GitHub repository from a PyCharm project: 
-
-1. Create a new **PyCharm project**.
-2. From the menu select 
-**Git > GitHub > Share Project on GitHub**.
-3. Give your repository a name and click **Share**.
-4. On the next window, make sure to **uncheck** the folder that ends in **"\.idea"** 
-(this prevents GitHub from tracking user-specific settings; 
-this is important when collaborating with others).
-5. You may leave the **Commit Message** unchanged and click **OK**.
+click on **Commit and Push**.
